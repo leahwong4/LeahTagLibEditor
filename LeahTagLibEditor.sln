@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeahTagLibEditor", "LeahTabLibEditor\LeahTagLibEditor.csproj", "{443AB8D8-4285-4DD6-B3FD-0FCBD9D136AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443AB8D8-4285-4DD6-B3FD-0FCBD9D136AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443AB8D8-4285-4DD6-B3FD-0FCBD9D136AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443AB8D8-4285-4DD6-B3FD-0FCBD9D136AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443AB8D8-4285-4DD6-B3FD-0FCBD9D136AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
