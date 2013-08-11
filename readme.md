@@ -14,7 +14,7 @@ The folder that contains songs that you would like to change their ID3 tag
 H:\MUSIC\CLASSIC\Walter Gieseking - Debussy - The Complete Works for Piano - MP3 VBR0\
 
 
-2.	Song Name Text File Path*
+**2.	Song Name Text File Path***
 The .txt file that contains lines of song names that will be used to replace the old ID3 title.
 Important: Text file using Unicode to encode is highly recommend!
 For example, a text file with three lines, first line is 'A', second is 'B' and third is 'C'.
